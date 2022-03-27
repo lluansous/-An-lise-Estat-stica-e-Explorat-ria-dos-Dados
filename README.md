@@ -1,7 +1,7 @@
 # Análise Estatística e Exploratória de Dados. 
 # Este trabalho consiste na utilização de técnicas estatísticas para exploração de dados, bem como de técnicas de visualização de dados, com a finalidade de extrair conhecimento do dataset gerado no trabalho anterior
 
-**Técnicas Utilizadas: 
+**Técnicas Utilizadas:**
 ## 1.Análise Exploratória/Estatística dos Dados:
 a. Medidas de Tendência Central
 b. Tabela de Frequência e Histograma
